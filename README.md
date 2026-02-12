@@ -4,4 +4,8 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=syoch&theme=algolia&disable_animations=true">
+![](./profile/stats.svg)
+![](./profile/top-langs.svg)
+
+<!--- <img src="https://github-readme-stats.vercel.app/api?username=syoch&theme=algolia&disable_animations=true"> --->
+
